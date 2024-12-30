@@ -1,16 +1,25 @@
-## Hi there 👋
+# Merhaba! 👋 Ben [Tahsin Gökçeer]  
 
-<!--
-**TahsinGokceer/TahsinGokceer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben bir yazılım geliştiricisi, teknoloji meraklısı ve sürekli öğrenmeye hevesli biriyim. Aşağıda kendim ve yaptığım projeler hakkında bazı bilgiler bulabilirsiniz.
 
-Here are some ideas to get you started:
+## 🚀 Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Eğitim: [Ege Üniversitesi Bilgisayar Mühendisliği]
+- 💻 Uzmanlık Alanlarım: [Spring Boot, JavaScript, React, Docker, AWS Sunucuları]
+- 🌱 Şu anda öğreniyorum: [Spring Boot]
+
+## 🛠️ Teknik Yeteneklerim
+
+- **Diller**: JavaScript, Java
+- **Frameworkler**: React, Next.js, Spring Boot, React Native, Node.js
+- **Araçlar ve Teknolojiler**: Git, Docker, Linux, PostgreSQL, MongoDB
+
+## 📫 Bana Ulaşın
+
+- LinkedIn: https://www.linkedin.com/in/tahsin-gökçeer-190b15249/
+- E-posta: tgokceer@gmail.com
+
+## 🧩 İlgi Alanlarım
+
+- Backend Geliştirme
+- Frontend Geliştirme
